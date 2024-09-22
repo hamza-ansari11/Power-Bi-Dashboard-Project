@@ -1,2 +1,2 @@
 # Power-Bi-Dashboard-Project
-This is a Power Bi Analysis Project
+This is a Power Bi Analysis Project of Sales 
